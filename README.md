@@ -1,4 +1,6 @@
-### artistic outputs from Julian Vollmert
+### Artistic Output from Julian Vollmert
+various data and experiments
+
 
 <!--
 **julivollmert/julivollmert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
