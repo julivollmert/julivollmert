@@ -1,6 +1,5 @@
 ### Very Welcome
-webpresence of Julian Vollmert;
-various art related data and experiments, updated from time to time ;
+
 
 
 <!--
