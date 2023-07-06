@@ -1,6 +1,6 @@
 ### Very Welcome
-Julian Vollmerts artistic output 
-Various data and experiments
+webpresence of Julian Vollmert;
+various art related data and experiments, updated from time to time ;
 
 
 <!--
