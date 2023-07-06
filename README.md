@@ -1,5 +1,6 @@
-### Artistic Output from Julian Vollmert
-various data and experiments
+### Very Welcome
+Julian Vollmerts artistic output
+Various data and experiments
 
 
 <!--
