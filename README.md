@@ -1,4 +1,4 @@
-### Hi there 👋
+### artistic outputs from Julian Vollmert
 
 <!--
 **julivollmert/julivollmert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
